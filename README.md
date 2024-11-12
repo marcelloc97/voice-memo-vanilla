@@ -2,7 +2,7 @@
 
 ## Advisement
 
-The repository was maded based on Erick Wendel's video. It can be found [here](https://www.youtube.com/watch?v=Pd_LS7p_BX4&ab_channel=ErickWendel).
+The repository was created based on Erick Wendel's video. It can be found [here](https://www.youtube.com/watch?v=Pd_LS7p_BX4&ab_channel=ErickWendel).
 
 ## Running
 
